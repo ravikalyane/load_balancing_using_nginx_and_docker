@@ -3,5 +3,5 @@
 To Run:
 docker-compose up
 
-To scale:
+To Scale:
 docker-compose up --build --scale app=10
